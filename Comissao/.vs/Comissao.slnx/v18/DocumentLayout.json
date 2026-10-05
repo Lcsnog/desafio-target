@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lucas\\Desktop\\Desafio Target\\Comissao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{486E978C-2043-A7C3-B25F-5FB38F29AE12}|Comissao\\Comissao.csproj|c:\\users\\lucas\\desktop\\desafio target\\comissao\\comissao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{486E978C-2043-A7C3-B25F-5FB38F29AE12}|Comissao\\Comissao.csproj|solutionrelative:comissao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{486E978C-2043-A7C3-B25F-5FB38F29AE12}|Comissao\\Comissao.csproj|c:\\users\\lucas\\desktop\\desafio target\\comissao\\comissao\\models\\venda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{486E978C-2043-A7C3-B25F-5FB38F29AE12}|Comissao\\Comissao.csproj|solutionrelative:comissao\\models\\venda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{486E978C-2043-A7C3-B25F-5FB38F29AE12}|Comissao\\Comissao.csproj|c:\\users\\lucas\\desktop\\desafio target\\comissao\\comissao\\models\\vendasjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{486E978C-2043-A7C3-B25F-5FB38F29AE12}|Comissao\\Comissao.csproj|solutionrelative:comissao\\models\\vendasjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{486E978C-2043-A7C3-B25F-5FB38F29AE12}|Comissao\\Comissao.csproj|c:\\users\\lucas\\desktop\\desafio target\\comissao\\comissao\\vendas.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{486E978C-2043-A7C3-B25F-5FB38F29AE12}|Comissao\\Comissao.csproj|solutionrelative:comissao\\vendas.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{486E978C-2043-A7C3-B25F-5FB38F29AE12}|Comissao\\Comissao.csproj|c:\\users\\lucas\\desktop\\desafio target\\comissao\\comissao\\services\\comissaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{486E978C-2043-A7C3-B25F-5FB38F29AE12}|Comissao\\Comissao.csproj|solutionrelative:comissao\\services\\comissaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Desafio Target\\Comissao\\Comissao\\Program.cs",
+              "RelativeDocumentMoniker": "Comissao\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Desafio Target\\Comissao\\Comissao\\Program.cs",
+              "RelativeToolTip": "Comissao\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T00:18:47.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Venda.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Desafio Target\\Comissao\\Comissao\\Models\\Venda.cs",
+              "RelativeDocumentMoniker": "Comissao\\Models\\Venda.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Desafio Target\\Comissao\\Comissao\\Models\\Venda.cs",
+              "RelativeToolTip": "Comissao\\Models\\Venda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T00:18:39.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VendasJson.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Desafio Target\\Comissao\\Comissao\\Models\\VendasJson.cs",
+              "RelativeDocumentMoniker": "Comissao\\Models\\VendasJson.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Desafio Target\\Comissao\\Comissao\\Models\\VendasJson.cs",
+              "RelativeToolTip": "Comissao\\Models\\VendasJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T00:18:42.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "vendas.json",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Desafio Target\\Comissao\\Comissao\\vendas.json",
+              "RelativeDocumentMoniker": "Comissao\\vendas.json",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Desafio Target\\Comissao\\Comissao\\vendas.json",
+              "RelativeToolTip": "Comissao\\vendas.json",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAHYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-03T23:40:22.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ComissaoService.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Desafio Target\\Comissao\\Comissao\\Services\\ComissaoService.cs",
+              "RelativeDocumentMoniker": "Comissao\\Services\\ComissaoService.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Desafio Target\\Comissao\\Comissao\\Services\\ComissaoService.cs",
+              "RelativeToolTip": "Comissao\\Services\\ComissaoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T23:24:51.374Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

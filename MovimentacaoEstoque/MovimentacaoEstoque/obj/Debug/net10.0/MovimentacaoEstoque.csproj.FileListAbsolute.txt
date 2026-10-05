@@ -1,0 +1,15 @@
+C:\Users\Lucas\Desktop\Desafio Target\MovimentacaoEstoque\MovimentacaoEstoque\MovimentacaoEstoque\bin\Debug\net10.0\MovimentacaoEstoque.exe
+C:\Users\Lucas\Desktop\Desafio Target\MovimentacaoEstoque\MovimentacaoEstoque\MovimentacaoEstoque\bin\Debug\net10.0\MovimentacaoEstoque.deps.json
+C:\Users\Lucas\Desktop\Desafio Target\MovimentacaoEstoque\MovimentacaoEstoque\MovimentacaoEstoque\bin\Debug\net10.0\MovimentacaoEstoque.runtimeconfig.json
+C:\Users\Lucas\Desktop\Desafio Target\MovimentacaoEstoque\MovimentacaoEstoque\MovimentacaoEstoque\bin\Debug\net10.0\MovimentacaoEstoque.dll
+C:\Users\Lucas\Desktop\Desafio Target\MovimentacaoEstoque\MovimentacaoEstoque\MovimentacaoEstoque\bin\Debug\net10.0\MovimentacaoEstoque.pdb
+C:\Users\Lucas\Desktop\Desafio Target\MovimentacaoEstoque\MovimentacaoEstoque\MovimentacaoEstoque\obj\Debug\net10.0\MovimentacaoEstoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\Desafio Target\MovimentacaoEstoque\MovimentacaoEstoque\MovimentacaoEstoque\obj\Debug\net10.0\MovimentacaoEstoque.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\Desafio Target\MovimentacaoEstoque\MovimentacaoEstoque\MovimentacaoEstoque\obj\Debug\net10.0\MovimentacaoEstoque.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\Desafio Target\MovimentacaoEstoque\MovimentacaoEstoque\MovimentacaoEstoque\obj\Debug\net10.0\MovimentacaoEstoque.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\Desafio Target\MovimentacaoEstoque\MovimentacaoEstoque\MovimentacaoEstoque\obj\Debug\net10.0\MovimentacaoEstoque.dll
+C:\Users\Lucas\Desktop\Desafio Target\MovimentacaoEstoque\MovimentacaoEstoque\MovimentacaoEstoque\obj\Debug\net10.0\refint\MovimentacaoEstoque.dll
+C:\Users\Lucas\Desktop\Desafio Target\MovimentacaoEstoque\MovimentacaoEstoque\MovimentacaoEstoque\obj\Debug\net10.0\MovimentacaoEstoque.pdb
+C:\Users\Lucas\Desktop\Desafio Target\MovimentacaoEstoque\MovimentacaoEstoque\MovimentacaoEstoque\obj\Debug\net10.0\MovimentacaoEstoque.genruntimeconfig.cache
+C:\Users\Lucas\Desktop\Desafio Target\MovimentacaoEstoque\MovimentacaoEstoque\MovimentacaoEstoque\obj\Debug\net10.0\ref\MovimentacaoEstoque.dll
+C:\Users\Lucas\Desktop\Desafio Target\MovimentacaoEstoque\MovimentacaoEstoque\MovimentacaoEstoque\obj\Debug\net10.0\Moviment.27DBED98.Up2Date

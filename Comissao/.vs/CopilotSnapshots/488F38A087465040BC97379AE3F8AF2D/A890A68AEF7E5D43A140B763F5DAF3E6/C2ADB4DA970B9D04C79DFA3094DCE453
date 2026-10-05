@@ -1,0 +1,31 @@
+﻿using System;
+using System.Text.Json;
+using VendasJson.Models;
+using VendasJson.Services;
+
+namespace Vendas
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+
+            // Ler o arquivo JSON
+            string json = File.ReadAllText("vendas.json");
+
+            // Desserializar o JSON em um objeto VendasJson
+            VendasJson vendasJson = JsonSerializer.Deserialize<VendasJson>(json);
+            
+            // Criar uma instância do serviço de comissão
+            ComissaoService comissaoService = new ComissaoService();
+            
+            // Calcular a comissão para cada venda e exibir o resultado
+            foreach (var venda in vendasJson.Vendas)
+            {
+                Console.WriteLine($"Vendedor: {venda.Vendedor}, Valor da Venda: {venda.Valor}");
+                decimal comissao = comissaoService.CalcularComissao(venda.Valor);
+                Console.WriteLine($"Comissão Calculada: {comissao}\n");
+            }
+        }
+    }
+}

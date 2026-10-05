@@ -1,0 +1,16 @@
+C:\Users\Lucas\Desktop\Desafio Target\Comissao\Comissao\Comissao\bin\Debug\net10.0\Comissao.exe
+C:\Users\Lucas\Desktop\Desafio Target\Comissao\Comissao\Comissao\bin\Debug\net10.0\Comissao.deps.json
+C:\Users\Lucas\Desktop\Desafio Target\Comissao\Comissao\Comissao\bin\Debug\net10.0\Comissao.runtimeconfig.json
+C:\Users\Lucas\Desktop\Desafio Target\Comissao\Comissao\Comissao\bin\Debug\net10.0\Comissao.dll
+C:\Users\Lucas\Desktop\Desafio Target\Comissao\Comissao\Comissao\bin\Debug\net10.0\Comissao.pdb
+C:\Users\Lucas\Desktop\Desafio Target\Comissao\Comissao\Comissao\obj\Debug\net10.0\Comissao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\Desafio Target\Comissao\Comissao\Comissao\obj\Debug\net10.0\Comissao.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\Desafio Target\Comissao\Comissao\Comissao\obj\Debug\net10.0\Comissao.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\Desafio Target\Comissao\Comissao\Comissao\obj\Debug\net10.0\Comissao.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\Desafio Target\Comissao\Comissao\Comissao\obj\Debug\net10.0\Comissao.dll
+C:\Users\Lucas\Desktop\Desafio Target\Comissao\Comissao\Comissao\obj\Debug\net10.0\refint\Comissao.dll
+C:\Users\Lucas\Desktop\Desafio Target\Comissao\Comissao\Comissao\obj\Debug\net10.0\Comissao.pdb
+C:\Users\Lucas\Desktop\Desafio Target\Comissao\Comissao\Comissao\obj\Debug\net10.0\Comissao.genruntimeconfig.cache
+C:\Users\Lucas\Desktop\Desafio Target\Comissao\Comissao\Comissao\obj\Debug\net10.0\ref\Comissao.dll
+C:\Users\Lucas\Desktop\Desafio Target\Comissao\Comissao\Comissao\obj\Debug\net10.0\Comissao.csproj.Up2Date
+C:\Users\Lucas\Desktop\Desafio Target\Comissao\Comissao\Comissao\bin\Debug\net10.0\vendas.json

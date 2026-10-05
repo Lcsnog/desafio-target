@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\JurosDivida",
+    "\\MovimentacaoEstoque",
+    "\\MovimentacaoEstoque\\MovimentacaoEstoque",
+    "\\MovimentacaoEstoque\\MovimentacaoEstoque\\bin",
+    "\\MovimentacaoEstoque\\MovimentacaoEstoque\\bin\\Debug",
+    "\\MovimentacaoEstoque\\MovimentacaoEstoque\\bin\\Release",
+    "\\MovimentacaoEstoque\\MovimentacaoEstoque\\Models",
+    "\\MovimentacaoEstoque\\MovimentacaoEstoque\\obj",
+    "\\MovimentacaoEstoque\\MovimentacaoEstoque\\Services"
+  ],
+  "SelectedNode": "\\JurosDivida",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lucas\\Desktop\\Desafio Target\\MovimentacaoEstoque\\MovimentacaoEstoque\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8B335E3-D45C-4512-B3FA-2AB2E781C202}|MovimentacaoEstoque\\MovimentacaoEstoque.csproj|c:\\users\\lucas\\desktop\\desafio target\\movimentacaoestoque\\movimentacaoestoque\\movimentacaoestoque\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8B335E3-D45C-4512-B3FA-2AB2E781C202}|MovimentacaoEstoque\\MovimentacaoEstoque.csproj|solutionrelative:movimentacaoestoque\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8B335E3-D45C-4512-B3FA-2AB2E781C202}|MovimentacaoEstoque\\MovimentacaoEstoque.csproj|c:\\users\\lucas\\desktop\\desafio target\\movimentacaoestoque\\movimentacaoestoque\\movimentacaoestoque\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8B335E3-D45C-4512-B3FA-2AB2E781C202}|MovimentacaoEstoque\\MovimentacaoEstoque.csproj|solutionrelative:movimentacaoestoque\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8B335E3-D45C-4512-B3FA-2AB2E781C202}|MovimentacaoEstoque\\MovimentacaoEstoque.csproj|c:\\users\\lucas\\desktop\\desafio target\\movimentacaoestoque\\movimentacaoestoque\\movimentacaoestoque\\models\\movimentacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8B335E3-D45C-4512-B3FA-2AB2E781C202}|MovimentacaoEstoque\\MovimentacaoEstoque.csproj|solutionrelative:movimentacaoestoque\\models\\movimentacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8B335E3-D45C-4512-B3FA-2AB2E781C202}|MovimentacaoEstoque\\MovimentacaoEstoque.csproj|c:\\users\\lucas\\desktop\\desafio target\\movimentacaoestoque\\movimentacaoestoque\\movimentacaoestoque\\services\\servicoestoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8B335E3-D45C-4512-B3FA-2AB2E781C202}|MovimentacaoEstoque\\MovimentacaoEstoque.csproj|solutionrelative:movimentacaoestoque\\services\\servicoestoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8B335E3-D45C-4512-B3FA-2AB2E781C202}|MovimentacaoEstoque\\MovimentacaoEstoque.csproj|c:\\users\\lucas\\desktop\\desafio target\\movimentacaoestoque\\movimentacaoestoque\\movimentacaoestoque\\models\\estoquewrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8B335E3-D45C-4512-B3FA-2AB2E781C202}|MovimentacaoEstoque\\MovimentacaoEstoque.csproj|solutionrelative:movimentacaoestoque\\models\\estoquewrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8B335E3-D45C-4512-B3FA-2AB2E781C202}|MovimentacaoEstoque\\MovimentacaoEstoque.csproj|c:\\users\\lucas\\desktop\\desafio target\\movimentacaoestoque\\movimentacaoestoque\\movimentacaoestoque\\models\\tipomovimentacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8B335E3-D45C-4512-B3FA-2AB2E781C202}|MovimentacaoEstoque\\MovimentacaoEstoque.csproj|solutionrelative:movimentacaoestoque\\models\\tipomovimentacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServicoEstoque.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Desafio Target\\MovimentacaoEstoque\\MovimentacaoEstoque\\MovimentacaoEstoque\\Services\\ServicoEstoque.cs",
+              "RelativeDocumentMoniker": "MovimentacaoEstoque\\Services\\ServicoEstoque.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Desafio Target\\MovimentacaoEstoque\\MovimentacaoEstoque\\MovimentacaoEstoque\\Services\\ServicoEstoque.cs",
+              "RelativeToolTip": "MovimentacaoEstoque\\Services\\ServicoEstoque.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T23:00:18.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EstoqueWrapper.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Desafio Target\\MovimentacaoEstoque\\MovimentacaoEstoque\\MovimentacaoEstoque\\Models\\EstoqueWrapper.cs",
+              "RelativeDocumentMoniker": "MovimentacaoEstoque\\Models\\EstoqueWrapper.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Desafio Target\\MovimentacaoEstoque\\MovimentacaoEstoque\\MovimentacaoEstoque\\Models\\EstoqueWrapper.cs",
+              "RelativeToolTip": "MovimentacaoEstoque\\Models\\EstoqueWrapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T23:00:08.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TipoMovimentacao.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Desafio Target\\MovimentacaoEstoque\\MovimentacaoEstoque\\MovimentacaoEstoque\\Models\\TipoMovimentacao.cs",
+              "RelativeDocumentMoniker": "MovimentacaoEstoque\\Models\\TipoMovimentacao.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Desafio Target\\MovimentacaoEstoque\\MovimentacaoEstoque\\MovimentacaoEstoque\\Models\\TipoMovimentacao.cs",
+              "RelativeToolTip": "MovimentacaoEstoque\\Models\\TipoMovimentacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T22:59:57.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Movimentacao.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Desafio Target\\MovimentacaoEstoque\\MovimentacaoEstoque\\MovimentacaoEstoque\\Models\\Movimentacao.cs",
+              "RelativeDocumentMoniker": "MovimentacaoEstoque\\Models\\Movimentacao.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Desafio Target\\MovimentacaoEstoque\\MovimentacaoEstoque\\MovimentacaoEstoque\\Models\\Movimentacao.cs",
+              "RelativeToolTip": "MovimentacaoEstoque\\Models\\Movimentacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T22:59:47.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Desafio Target\\MovimentacaoEstoque\\MovimentacaoEstoque\\MovimentacaoEstoque\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "MovimentacaoEstoque\\Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Desafio Target\\MovimentacaoEstoque\\MovimentacaoEstoque\\MovimentacaoEstoque\\Models\\Produto.cs",
+              "RelativeToolTip": "MovimentacaoEstoque\\Models\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T22:59:39.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Desafio Target\\MovimentacaoEstoque\\MovimentacaoEstoque\\MovimentacaoEstoque\\Program.cs",
+              "RelativeDocumentMoniker": "MovimentacaoEstoque\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Desafio Target\\MovimentacaoEstoque\\MovimentacaoEstoque\\MovimentacaoEstoque\\Program.cs*",
+              "RelativeToolTip": "MovimentacaoEstoque\\Program.cs*",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAAAH4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T22:56:29.706Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
